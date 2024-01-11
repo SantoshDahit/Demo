@@ -1,4 +1,4 @@
-# Santosh Dahit's Data Science and Backend Journey
+# Santosh Dahit || Data Science and Backend Journey
 
 Hello there! 👋 I'm Santosh Dahit, a passionate data science enthusiast currently pursuing my Masters in Data Science. With a solid foundation in Computer Engineering from my undergraduate studies, I am now expanding my skills by diving into the world of Backend development using Java through the amazing courses at [HABSIDA](https://habsida.com/#open).
 
