@@ -18,7 +18,7 @@ I am enhancing my skills through courses offered by HABSIDA, a platform dedicate
 Feel free to connect with me or reach out to HABSIDA using the following links:
 
 - 📧 Email: sanntoshdahit454@gmail.com
-- 📱 LinkedIn: Santosh Dahit www.linkedin.com/in/santosh-dahit
+- 📱 LinkedIn: [Santosh Dahit] (www.linkedin.com/in/santosh-dahit)
 - 🌐 [HABSIDA Website](https://habsida.com/#open)
 
 Let's connect and grow together in the exciting world of data science and backend development! 🚀
