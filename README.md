@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Ajax](https://img.shields.io/badge/Ajax-007ACC?style=for-the-badge&logo=ajax&logoColor=white)
 
 ### Database:
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
