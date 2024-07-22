@@ -5,28 +5,28 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 ## 🛠 My Technical Stack
 
 ### Back end:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Framework](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
+![Spring Framework](https://img.icons8.com/color/48/000000/spring-logo.png)
+![REST API](https://img.icons8.com/color/48/000000/api.png)
+![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)
 
 ### Front end:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Ajax](https://img.shields.io/badge/Ajax-007ACC?style=for-the-badge&logo=ajax&logoColor=white)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Ajax](https://img.icons8.com/color/48/000000/ajax.png)
 
 ### Database:
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 
 ### Other:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![JUnit](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Mockito](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 
 ## 💼 Projects and Repositories
 
