@@ -15,7 +15,6 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-![Ajax](https://img.icons8.com/color/48/000000/ajax.png)
 
 ### Database:
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
@@ -23,6 +22,7 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 
 ### Other:
 ![Git](https://img.icons8.com/color/48/000000/git.png)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 ![JUnit](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
