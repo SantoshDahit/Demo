@@ -26,8 +26,8 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
-![JUnit](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![Mockito](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=for-the-badge&logo=mockito&logoColor=white)
 
 ## 💼 Projects and Repositories
 
