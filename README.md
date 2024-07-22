@@ -31,41 +31,36 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 ## 💼 Projects and Repositories
 
 ### Featured Projects
-1. **[JDBC with Maven](https://github.com/SantoshDahit/JDBC-with-maven)**
-   - A project demonstrating JDBC integration with Maven.
-   - **Technologies**: Java, Maven
 
-2. **[Hibernate Employee](https://github.com/SantoshDahit/hibernate_empl)**
-   - A project using Hibernate for employee management.
-   - **Technologies**: Java, Hibernate
+1. **[Spring Boot with AJAX](https://github.com/SantoshDahit/Spring_boot_with_AJAX)**
+   - Integrating AJAX with Spring Boot for dynamic web applications.
+   - **Technologies**: Spring Boot, AJAX
+
+2. **[XMLHttpRequest](https://github.com/SantoshDahit/xmlhttprequest)**
+   - Handling asynchronous requests using XMLHttpRequest in JavaScript.
+   - **Technologies**: JavaScript, XMLHttpRequest
+
+3. **[Book Manager](https://github.com/SantoshDahit/Book_manager)**
+   - A comprehensive book management system.
+   - **Technologies**: Spring Boot, MySQL
+
+4. **[CRUD with Spring Boot and Bootstrap](https://github.com/SantoshDahit/CURD_with_springboot_and_bootstrap)**
+   - Implementing CRUD operations with a stylish front-end using Bootstrap.
+   - **Technologies**: Spring Boot, Bootstrap
+
+5. **[CRUD Operation - Spring Security with Hibernate](https://github.com/SantoshDahit/CURD_operation-Spring_security_with_hibernate)**
+   - Securing CRUD operations using Spring Security and Hibernate.
+   - **Technologies**: Spring Security, Hibernate
+
+6. **[Undergrad Projects](https://github.com/SantoshDahit/Undergrad_projects)**
+   - A collection of projects completed during my undergraduate studies.
+   - **Technologies**: Various
 
 ### Other Repositories
+
 - **[Employee JDBC](https://github.com/SantoshDahit/employee_JDBC)**: Java-based employee management using JDBC.
 - **[Project Prerequisite](https://github.com/SantoshDahit/project_prerequiste)**: A foundational project for understanding prerequisites.
 - **[Task 1.1.3](https://github.com/SantoshDahit/Task_1.1.3)**: An example project demonstrating task management.
-
-## 🔥 Key Learnings from Morago Project
-
-- JWT authentication
-- AWS services for file management
-- Firebase for notification management
-- RESTful API design and development with GraphQL
-- Database design and optimization with MySQL
-- Dependency injection and inversion of control
-- Unit and integration testing using JUnit and Mockito
-- Building and consuming REST APIs with Spring MVC
-- Configuration management using Spring Boot
-- Exception handling and logging
-- Implementing security best practices with Spring Security
-
-## 📊 Enhancements
-
-- Project security
-- File management
-- Notification system
-- Responsiveness and user interaction
-- Comprehensive backend solution
-- Robust security and dynamic frontend features
 
 ## 📫 Let's Connect
 
