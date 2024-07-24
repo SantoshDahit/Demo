@@ -59,7 +59,6 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 
 - **[Employee JDBC](https://github.com/SantoshDahit/employee_JDBC)**: Java-based employee management using JDBC.
 - **[Project Prerequisite](https://github.com/SantoshDahit/project_prerequiste)**: A foundational project for understanding prerequisites.
-- **[Task 1.1.3](https://github.com/SantoshDahit/Task_1.1.3)**: An example project demonstrating task management.
 
 ## 📫 Let's Connect
 
