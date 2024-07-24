@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I am a committed Backend Developer with a strong f
 ### Back end:
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png)
-![Spring Framework](https://img.icons8.com/color/48/000000/spring-logo.png)
 ![REST API](https://img.icons8.com/color/48/000000/api.png)
 ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)
 
